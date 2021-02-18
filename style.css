@@ -17,9 +17,9 @@ BODY {
 }
 
 img {
+    min-height: 100%;
     width: 50%;
     height: 100%;
-    border: -5px solid white;
 }
 
 .score {
